@@ -11,8 +11,8 @@
   "dependencies": {
     "@onflow/fcl": "1.1.0",
     "dotenv": "^16.0.1",
-    "elliptic": "^6.5.4",
-    "next": "12.1.6",
+    "elliptic": "^6.5.6",
+    "next": "14.2.7",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "sha3": "^2.1.4"
